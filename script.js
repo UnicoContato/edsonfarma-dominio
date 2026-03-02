@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "EDSON FARMA DROGARIA E PERFUMARIA LTDA",
             cnpj: "08.805.550/0001-90",
             address: "R Luis de Almeida Carvalho, 28, Jd Arabutam, Embu das Artes - SP",
-            phone: "(11) 4781-1592",
+            phone: "(11) 91449-9239",
             email: "contatec@uol.com.br",
             mapQuery: "Rua Luis de Almeida Carvalho, 28, Jardim Arabutam, Embu das Artes - SP"
         },
